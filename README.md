@@ -25,17 +25,17 @@ photovoltaic power generation projects at different locations, with a total capa
 
 Project Activity/ Power Plant Name/ Village/State Energy Source/ Installed capacity in MW /Annual generation in MWh/year/ Commissioning date
 ___________
-1 /Corvina Pirapora, MG /Solar/ 4.84/ 12,590/ 16/10/2020
+1 /Corvina/ Pirapora, MG /Solar/ 4.84/ 12,590/ 16/10/2020
 _________
-2 Mirabela Mirabela, MG/ Solar/ 4.78 /14,212 /08/04/2022
+2 Mirabela/ Mirabela, MG/ Solar/ 4.78 /14,212 /08/04/2022
 __________
-3/ Coração de Jesus Coração de Jesus, MG Solar/ 2.50/ 7,213/ 18/11/2022
+3/ Coração de Jesus/ Coração de Jesus, MG Solar/ 2.50/ 7,213/ 18/11/2022
 _________
-4 /Jequitinhonha Araçuaí, MG Solar 4.78 /12,782/ 08/04/2022
+4 /Jequitinhonha/ Araçuaí, MG Solar 4.78 /12,782/ 08/04/2022
 _________
-5 /Taiobeiras Taiobeiras/MG/Solar/ 7.50 /20,606/ 15/12/2022
+5 /Taiobeiras/ Taiobeiras/MG/Solar/ 7.50 /20,606/ 15/12/2022
 _______
-6 /Salinas Salinas, MG /Solar /2.38 /6,199 /17/08/2023
+6 /Salinas/ Salinas, MG /Solar /2.38 /6,199 /17/08/2023
 ______________
 Having each power plant an installed capacity equal or under 5 MW, they are classified as minigeneration units under the electricity compensation system regulated by Brazil’s ANEEL (National Electric Energy Agency), in accordance with normative resolutions n. 482/2012, n. 687/2015, and
 federal law n. 14.300/2022. Under the electricity compensation system, the active energy injected by
